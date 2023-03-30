@@ -1,5 +1,4 @@
-# projects
-## Finished Projects
+# Artificial Intelligence Course Projects
 
 ### Project 1: DFS, BFS, Hill-climbing
 ### Project 2: Davis Putnam
