@@ -6,6 +6,7 @@
 
 ## IDS
 ### Capstone Project
+Analyze the movie database.
 
 ## Operating System
 ### Lab1
